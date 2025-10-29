@@ -54,6 +54,7 @@ The data used here is **dummy/simulated** for visualization and learning purpose
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](https://github.com/Aarsh0315/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard.png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/Aarsh0315/Hospital-Emergency-Dashboard-Using-Excel/blob/main/hospital%20dashboard.png?raw=true" width="700" alt="Hospital Emergency Dashboard">
+</p>
 ⭐ *If you found this project helpful, please consider giving it a star on GitHub!*
